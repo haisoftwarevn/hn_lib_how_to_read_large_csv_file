@@ -1,0 +1,19 @@
+{
+  "name": "hn_lib_how_to_read_large_csv_file",
+  "version": "1.0.0",
+  "description": "to read large csv file",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "csv",
+    "file"
+  ],
+  "author": "developed by Hai Nam, contact hainamsoftwarevn@gmail.com",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "csv-parse": "^5.3.3"
+  }
+}
